@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="My Recipes"
+        android:icon="@drawable/home" />
+    <item android:id="@+id/nav_saved_recipes"
+        android:title="Saved Recipes"
+        android:icon="@drawable/favorite"/>
+    <item android:id="@+id/nav_post_recipe"
+        android:title="Post Recipe"
+        android:icon="@drawable/add_post"/>
+    <item android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+    <item android:id="@+id/nav_friends"
+        android:title="Friends"
+        android:icon="@drawable/friends"/>
+    <item android:id="@+id/nav_find_recipes"
+        android:title="Find Recipes"
+        android:icon="@drawable/search_icon"/>
+    <item android:id="@+id/nav_find_user"
+        android:title="Find Users"
+        android:icon="@drawable/add_friend"/>
+    <item android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/settings"/>
+    <item android:id="@+id/nav_sign_out"
+        android:title="Sign Out"
+        android:icon="@drawable/logout"/>
+
+</menu>
